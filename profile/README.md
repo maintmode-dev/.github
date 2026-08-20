@@ -13,6 +13,13 @@ One calendar of maintenance work. Which resources each piece of work touches.
 What was *planned* versus what actually *happened*. Overlaps flagged as
 conflicts before they turn into incidents.
 
+![Maintenance calendar, week view](assets/calendar-week.png)
+
+Conflicts are the point: when a new window overlaps an existing one on a shared
+resource, you see it while the work is still a draft — not after the incident.
+
+![Conflict detection on a maintenance window](assets/conflict-detection.png)
+
 ## Repositories
 
 | | |
